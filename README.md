@@ -1,0 +1,4 @@
+mydotfile
+=========
+
+Dotfile management
